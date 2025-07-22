@@ -107,7 +107,7 @@ def order_item(name,quantity,d,hr_min):
             qty=int(input("Enter the number of items you want to order now: "))
             order_item(name,qty,d,hr_min)
                 
-print("Welcome to Kitchen on Wheels!")
+print("Welcome to Restaurant Inventory and Customer Database Management System!")
 print("What would you like to do, type the number ")
 print('''1-view food table
 2-view orders table
